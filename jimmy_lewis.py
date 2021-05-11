@@ -1,4 +1,5 @@
 # Import Discord.py commands
+import discord
 from discord.ext import commands
 
 # Import discord-py-slash-commands slash commands
