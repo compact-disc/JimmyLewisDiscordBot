@@ -38,6 +38,10 @@ async def on_message(ctx):
         drake_react = "<:drake:821463946284367902>"
         await ctx.add_reaction(drake_react)
 
+    if ctx.author.id == 128276798575345664 and random.randint(0, 100) <= 1:
+        proof_square = "<:white_medium_square:864622320176857088>"
+        await ctx.add_reaction(proof_square)
+
 
 # Start the bot
 bot.run(bot_token)
