@@ -1,5 +1,5 @@
 # Jimmy Lewis Discord Bot
-Discord bot for the Jimmy Lewis Moves to Fort Wayne Discord server. Everything can and will be hard coded because this is a very specific server bot.
+Discord bot for a private Discord server.
 
 ### Current Features:
 - React with the :drake: emoji every time Drake says anything in the server.
